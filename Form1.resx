@@ -117,4 +117,29 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Control Unit:
+Part Number: N/A
+Serial Number: N/A
+Software Location: SVN\baseline_code\newTERN\newTERNfw\apps\lri_metalcraft\
+Latest Revision: lri_metalcraft_newTern_106_1000_Rev6367.bin
+
+Engine Backup Panel:
+Part Number: 092406-3736
+Serial Number: 092406-3736-001
+Software Location: N/A
+
+Clutch Controller:
+Part Number: 051106-1202
+Serial Number: 581644-2.000-6371/1B01
+Software Location: SVN\projects\ms_san_francisco\Clutch_Controller\ClutchController_2_XXX\
+Latest Revision: ClutchController_2_000_Rev6371.out
+
+Rudder WJ Backup Panel:
+Part Number: 051106-1205
+Serial Number: 1205-003-A.0.02
+Software Location: N/A
+Latest Revision: N/A
+</value>
+  </data>
 </root>

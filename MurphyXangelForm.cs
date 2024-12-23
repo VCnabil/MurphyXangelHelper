@@ -18,6 +18,8 @@ namespace MurphyXangelHelper
         private static MurphyXangelForm _instance;
         private const string BASEPATH_svnProjects = @"C:\____SVN_vcinc_2023\projects";
         private const string BASEPATH_svnMS_SF_DEV = @"C:\____SVN_vcinc_2023\projects\ms_san_francisco\MS_SF_Murphy_PV780\MS_SF_DEV";
+
+        private static readonly string RootDirectory;
         public MurphyXangelForm()
         {
             InitializeComponent();
